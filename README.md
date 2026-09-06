@@ -83,51 +83,45 @@
 
 <br/>
 
-## Featured Engineering
+## Recent Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">SafePay</h3>
-      <p align="center"><i>Distributed Payment & Ledger System</i></p>
+      <h3 align="center">Enterprise GraphRAG Engine</h3>
+      <p align="center"><i>Graph-based Retrieval Augmented Generation</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
+        <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white" />
+      </p>
+      <div align="center"><a href="https://github.com/KAILASH-SOU/Enterprise-GraphRAG-Engine"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Incident Command System</h3>
+      <p align="center"><i>Real-time Emergency & Incident Management</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
-      <div align="center"><a href="https://github.com/KAILASH-SOU/[REPO_NAME_SAFEPAY]"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">High-Performance Matching Engine</h3>
-      <p align="center"><i>C++ Exchange / Order Matching Simulator</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-        <img src="https://img.shields.io/badge/Low_Latency-000000?style=flat-square" />
-      </p>
-      <div align="center"><a href="https://github.com/KAILASH-SOU/[REPO_NAME_MATCHING_ENGINE]"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
+      <div align="center"><a href="https://github.com/KAILASH-SOU/Incident-Command-System"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Nyaya RAG Engine</h3>
-      <p align="center"><i>AI-powered Legal Retrieval System</i></p>
+      <h3 align="center">Autonomous Refactoring Agent</h3>
+      <p align="center"><i>AI Agent for Automated Codebase Refactoring</i></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
-      <div align="center"><a href="https://github.com/KAILASH-SOU/[REPO_NAME_NYAYA]"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
+      <div align="center"><a href="https://github.com/KAILASH-SOU/Autonomous-Refactoring-Agent"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ML Fraud Detection</h3>
-      <p align="center"><i>Machine Learning Fraud Detection System</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LightGBM-ff0000?style=flat-square" />
-        <img src="https://img.shields.io/badge/SMOTE-000000?style=flat-square" />
-      </p>
-      <div align="center"><a href="https://github.com/KAILASH-SOU/[REPO_NAME_FRAUD_DETECTION]"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
+    <td width="50%" valign="top" align="center">
+      <br/><br/><br/>
+      <h3><a href="https://github.com/KAILASH-SOU?tab=repositories" style="text-decoration:none;color:inherit;">View All Projects &rarr;</a></h3>
     </td>
   </tr>
 </table>
