@@ -1,34 +1,39 @@
+<!-- Banner -->
 <div align="center">
-  <h1>Kailash</h1>
-  <h3>Full-Stack Engineer | Applied AI | Competitive Programming</h3>
-  <p>Building scalable software, intelligent AI systems, and high-performance applications.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kailash&fontSize=80&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Applied%20AI%20%7C%20Competitive%20Programming&descAlignY=55&descAlign=62" width="100%" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+software;Intelligent+AI+systems;High-performance+applications" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://github.com/KAILASH-SOU">
-    <img src="https://komarev.com/ghpvc/?username=KAILASH-SOU&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=KAILASH-SOU&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
 
 <br/>
 
-## Identity & Current Focus
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>Current Engineering Focus</strong><br/><br/>
-      01 &nbsp; Full-Stack Engineering<br/>
-      02 &nbsp; Applied AI & LLM Applications<br/>
-      03 &nbsp; Backend & System Design<br/>
-      04 &nbsp; Competitive Programming<br/>
-      05 &nbsp; High-Performance Systems
+      <h2 align="center">Current Focus</h2>
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/01-Full--Stack_Engineering-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+        <img src="https://img.shields.io/badge/02-Applied_AI_&_LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/03-Backend_&_Systems-0D1117?style=for-the-badge&logo=linux&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/04-Competitive_Programming-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" /><br/>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <strong>Engineering Philosophy</strong><br/><br/>
-      <blockquote>Learn deeply. Build relentlessly. Optimize continuously.</blockquote>
+      <h2 align="center">Engineering Philosophy</h2>
+      <br/>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=2000&color=E2E8F0&center=true&vCenter=true&width=400&lines=Learn+deeply.;Build+relentlessly.;Optimize+continuously." alt="Philosophy" />
+      </div>
+      <p align="center"><i>"Bridging the gap between intelligent AI systems and robust, scalable backend architectures."</i></p>
     </td>
   </tr>
 </table>
@@ -37,17 +42,23 @@
 
 ## Technical Arsenal
 
-### Full Stack
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Express` `Python` `FastAPI` `Django` `PostgreSQL` `MongoDB` `Redis` `Docker` `Linux` `Git`
+<h3 align="center">Full Stack Development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,py,django,postgres,mongodb,redis,docker,linux,git,nginx&perline=15" />
+  </a>
+</p>
 
-### Applied AI
-`Python` `Machine Learning` `LLM APIs` `RAG` `LangChain` `Vector Databases` `FAISS` `AI Agents` `Embeddings` `Prompt Engineering` `Model Serving`
-
-### Systems & Backend
-`C++20` `C++` `TCP/IP` `REST APIs` `WebSockets` `System Design` `Distributed Systems` `Performance Engineering`
-
-### Problem Solving
-`Data Structures` `Algorithms` `Dynamic Programming` `Graphs` `Trees` `Binary Search` `Segment Trees` `Fenwick Trees` `DSU` `Greedy` `Bit Manipulation` `Shortest Paths`
+<h3 align="center">Applied AI & Systems</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Databases-4A154B?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
 
 <br/>
 
@@ -77,30 +88,46 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>SafePay</strong><br/>
-      Distributed Payment & Ledger System<br/>
-      <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code><br/>
-      <a href="https://github.com/KAILASH-SOU/[REPO_NAME_SAFEPAY]">[ Repository ]</a>
+      <h3 align="center">SafePay</h3>
+      <p align="center"><i>Distributed Payment & Ledger System</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+      <div align="center"><a href="https://github.com/KAILASH-SOU/[REPO_NAME_SAFEPAY]"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
     </td>
     <td width="50%" valign="top">
-      <strong>High-Performance Matching Engine</strong><br/>
-      C++ Exchange / Order Matching Simulator<br/>
-      <code>C++20</code> <code>CMake</code> <code>Low-Latency Engineering</code><br/>
-      <a href="https://github.com/KAILASH-SOU/[REPO_NAME_MATCHING_ENGINE]">[ Repository ]</a>
+      <h3 align="center">High-Performance Matching Engine</h3>
+      <p align="center"><i>C++ Exchange / Order Matching Simulator</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+        <img src="https://img.shields.io/badge/Low_Latency-000000?style=flat-square" />
+      </p>
+      <div align="center"><a href="https://github.com/KAILASH-SOU/[REPO_NAME_MATCHING_ENGINE]"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Nyaya RAG Engine</strong><br/>
-      AI-powered Legal Retrieval System<br/>
-      <code>Python</code> <code>LangChain</code> <code>Gemini</code> <code>FAISS</code><br/>
-      <a href="https://github.com/KAILASH-SOU/[REPO_NAME_NYAYA]">[ Repository ]</a>
+      <h3 align="center">Nyaya RAG Engine</h3>
+      <p align="center"><i>AI-powered Legal Retrieval System</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
+      </p>
+      <div align="center"><a href="https://github.com/KAILASH-SOU/[REPO_NAME_NYAYA]"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
     </td>
     <td width="50%" valign="top">
-      <strong>ML Fraud Detection</strong><br/>
-      Machine Learning Fraud Detection System<br/>
-      <code>Python</code> <code>LightGBM</code> <code>SMOTE</code><br/>
-      <a href="https://github.com/KAILASH-SOU/[REPO_NAME_FRAUD_DETECTION]">[ Repository ]</a>
+      <h3 align="center">ML Fraud Detection</h3>
+      <p align="center"><i>Machine Learning Fraud Detection System</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LightGBM-ff0000?style=flat-square" />
+        <img src="https://img.shields.io/badge/SMOTE-000000?style=flat-square" />
+      </p>
+      <div align="center"><a href="https://github.com/KAILASH-SOU/[REPO_NAME_FRAUD_DETECTION]"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a></div>
     </td>
   </tr>
 </table>
@@ -130,9 +157,11 @@
   </picture>
 </div>
 
+<!-- Footer -->
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
-## Connect
+<br/>
 
 <p align="center">
   <a href="https://github.com/KAILASH-SOU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
