@@ -46,7 +46,7 @@ B.Tech student at **VNIT Nagpur** (Electrical & Electronics Engineering, minor i
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=0D9488&vCenter=true&width=600&height=40&lines=C%2B%2B+Projects" alt="C++ Projects" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=70&section=header&text=LiteTensor%3A%20C%2B%2B17%20Graph%20Compiler%20%26%20Inference%20Runtime&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="LiteTensor: C++17 Graph Compiler & Inference Runtime" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D9488,50:6366F1,100:DB2777&height=70&section=header&text=LiteTensor%3A%20C%2B%2B17%20Graph%20Compiler%20%26%20Inference%20Runtime&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="LiteTensor: C++17 Graph Compiler & Inference Runtime" />
 
 <a href="https://github.com/KAILASH-SOU/GraphCompiler"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D9488?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -64,7 +64,7 @@ A computational-graph compiler and inference runtime built for optimization, mem
 ![Google Test](https://img.shields.io/badge/Google%20Test-4285F4?style=flat-square)
 ![Compiler](https://img.shields.io/badge/Compiler%20Design-6366F1?style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=70&section=header&text=High-Performance%20Low-Latency%20Trading%20Engine&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="High-Performance Low-Latency Trading Engine" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,50:DB2777,100:6366F1&height=70&section=header&text=High-Performance%20Low-Latency%20Trading%20Engine&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="High-Performance Low-Latency Trading Engine" />
 
 <a href="https://github.com/KAILASH-SOU/High-Performance-Low-Latency-Trading-Engine"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -83,7 +83,7 @@ A C++20 trading engine built around systems performance.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=DB2777&vCenter=true&width=600&height=40&lines=Current+Projects" alt="Current Projects" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=70&section=header&text=Enterprise%20GraphRAG%20Platform&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Enterprise GraphRAG Platform" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:0D9488,100:84CC16&height=70&section=header&text=Enterprise%20GraphRAG%20Platform&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Enterprise GraphRAG Platform" />
 
 <a href="https://github.com/KAILASH-SOU/Enterprise-GraphRAG-Engine"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -100,7 +100,7 @@ Multi-tenant knowledge-graph retrieval backend for cross-document search and mul
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=70&section=header&text=Autonomous%20Codebase%20Refactoring%20Agent&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Autonomous Codebase Refactoring Agent" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:DB2777,100:F59E0B&height=70&section=header&text=Autonomous%20Codebase%20Refactoring%20Agent&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Autonomous Codebase Refactoring Agent" />
 
 <a href="https://github.com/KAILASH-SOU/Autonomous-Refactoring-Agent"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -115,7 +115,7 @@ Self-healing refactoring system built on AST analysis, isolated validation, and 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-6366F1?style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=70&section=header&text=Local-First%20Incident%20Command%20System&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Local-First Incident Command System" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,50:F59E0B,100:0D9488&height=70&section=header&text=Local-First%20Incident%20Command%20System&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Local-First Incident Command System" />
 
 <a href="https://github.com/KAILASH-SOU/Incident-Command-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-DB2777?style=for-the-badge&logo=github&logoColor=white" /></a>
 
