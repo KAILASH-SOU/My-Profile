@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,35:0D9488,70:6366F1,100:DB2777&height=260&section=header&text=Kailash&fontSize=84&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Development%20Engineering%20%7C%20System%20Software%20Engineering&descAlignY=60&descSize=22" width="100%" alt="Kailash" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,35:0D9488,70:6366F1,100:DB2777&height=260&section=header&text=Kailash&fontSize=84&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20System%20Software%20Engineering&descAlignY=60&descSize=22" width="100%" alt="Kailash" />
 
 <a href="https://github.com/KAILASH-SOU">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=860&lines=Software+Development+Engineer+(SDE);System+Software+Engineering;Graph+compiler+%2B+inference+runtime+in+C%2B%2B17;Low-latency+C%2B%2B20+trading+engine+with+lock-free+queues;Scalable+Python+backends+and+applied+AI;Codeforces+Specialist+%7C+1%2C000%2B+DSA+problems+solved" alt="Typing animation" />
@@ -46,7 +46,8 @@ B.Tech student at **VNIT Nagpur** (Electrical & Electronics Engineering, minor i
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=0D9488&vCenter=true&width=600&height=40&lines=C%2B%2B+Projects" alt="C++ Projects" />
 
-#### LiteTensor: C++17 Graph Compiler & Inference Runtime
+<img src="assets/litetensor.svg" alt="LiteTensor: C++17 Graph Compiler & Inference Runtime" />
+
 <a href="https://github.com/KAILASH-SOU/GraphCompiler"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D9488?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 A computational-graph compiler and inference runtime built for optimization, memory efficiency, and execution speed.
@@ -63,7 +64,8 @@ A computational-graph compiler and inference runtime built for optimization, mem
 ![Google Test](https://img.shields.io/badge/Google%20Test-4285F4?style=flat-square)
 ![Compiler](https://img.shields.io/badge/Compiler%20Design-6366F1?style=flat-square)
 
-#### High-Performance Low-Latency Trading Engine
+<img src="assets/trading-engine.svg" alt="High-Performance Low-Latency Trading Engine" />
+
 <a href="https://github.com/KAILASH-SOU/High-Performance-Low-Latency-Trading-Engine"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 A C++20 trading engine built around systems performance.
@@ -81,7 +83,8 @@ A C++20 trading engine built around systems performance.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=DB2777&vCenter=true&width=600&height=40&lines=Current+Projects" alt="Current Projects" />
 
-#### Enterprise GraphRAG Platform
+<img src="assets/graphrag.svg" alt="Enterprise GraphRAG Platform" />
+
 <a href="https://github.com/KAILASH-SOU/Enterprise-GraphRAG-Engine"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 Multi-tenant knowledge-graph retrieval backend for cross-document search and multi-hop reasoning.
@@ -97,7 +100,8 @@ Multi-tenant knowledge-graph retrieval backend for cross-document search and mul
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### Autonomous Codebase Refactoring Agent
+<img src="assets/refactoring-agent.svg" alt="Autonomous Codebase Refactoring Agent" />
+
 <a href="https://github.com/KAILASH-SOU/Autonomous-Refactoring-Agent"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 Self-healing refactoring system built on AST analysis, isolated validation, and async workers.
@@ -111,7 +115,8 @@ Self-healing refactoring system built on AST analysis, isolated validation, and 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-6366F1?style=flat-square)
 
-#### Local-First Incident Command System
+<img src="assets/incident-command.svg" alt="Local-First Incident Command System" />
+
 <a href="https://github.com/KAILASH-SOU/Incident-Command-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-DB2777?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 Offline-capable incident-management and diagnostic system for investigating network outages.
