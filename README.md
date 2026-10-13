@@ -24,7 +24,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=2DD4BF&vCenter=true&width=600&height=50&lines=About+Me" alt="About Me" />
 
-B.Tech student at **VNIT Nagpur** (Electrical & Electronics Engineering, minor in Computer Science & Engineering), focused on **Software Development** and **System Software Engineering**. I like understanding how software works from the inside out: compilers, memory, runtimes, and the code that makes systems fast and reliable.
+B.Tech student at **NIT Nagpur** (Electrical & Electronics Engineering, minor in Computer Science & Engineering), focused on **Software Development** and **System Software Engineering**. I like understanding how software works from the inside out: compilers, memory, runtimes, and the code that makes systems fast and reliable.
 
 | Focus | What I work on |
 |---|---|
