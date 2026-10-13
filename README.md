@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0D9488,100:6366F1&height=240&section=header&text=Kailash&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=System%20Software%20%7C%20Compilers%20%7C%20ML%20Systems%20%7C%20FPGA&descAlignY=62&descSize=20" width="100%" alt="Kailash" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,35:0D9488,70:6366F1,100:DB2777&height=260&section=header&text=Kailash&fontSize=84&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20System%20Software%20Engineering&descAlignY=60&descSize=22" width="100%" alt="Kailash" />
 
 <a href="https://github.com/KAILASH-SOU">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=820&lines=Graph+compiler+%2B+inference+runtime+in+C%2B%2B17;Low-latency+C%2B%2B20+trading+engine+with+lock-free+queues;FPGA-enabled+deep+learning+for+DC+arc+fault+detection;Codeforces+Specialist+%7C+1%2C000%2B+problems+solved;Seeking+System+Software+Engineering+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=860&lines=Software+Development+Engineer+(SDE);System+Software+Engineering;Graph+compiler+%2B+inference+runtime+in+C%2B%2B17;Low-latency+C%2B%2B20+trading+engine+with+lock-free+queues;Scalable+Python+backends+and+applied+AI;Codeforces+Specialist+%7C+1%2C000%2B+DSA+problems+solved" alt="Typing animation" />
 </a>
 
 <br/>
@@ -16,23 +16,23 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KAILASH-SOU&label=PROFILE%20VIEWS&color=0D9488&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=KAILASH-SOU&label=PROFILE%20VIEWS&color=0D9488&style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-##  About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=2DD4BF&vCenter=true&width=600&height=50&lines=About+Me" alt="About Me" />
 
-Final-year B.Tech student at **VNIT Nagpur** (Electrical & Electronics Engineering, minor in CSE), applying to **System Software Engineering** roles. I like understanding how things work from the silicon up: compilers, memory, runtimes, hardware acceleration, and the code that makes ML run fast.
+B.Tech student at **VNIT Nagpur** (Electrical & Electronics Engineering, minor in Computer Science & Engineering), focused on **Software Development** and **System Software Engineering**. I like understanding how software works from the inside out: compilers, memory, runtimes, and the code that makes systems fast and reliable.
 
-| | |
+| Focus | What I work on |
 |---|---|
-|  **System Software** | C++17/20, compiler design, optimization passes, memory planning, lock-free data structures |
-|  **Compiler + ML** | Computational graphs, operator fusion, constant folding, inference runtimes |
-|  **Hardware + DL** | FPGA-accelerated deep learning, embedded inference, fault detection |
-|  **Backend + AI** | FastAPI, Celery, Redis, GraphRAG, agentic workflows |
-|  **Problem Solving** | Codeforces Specialist, 1,000+ problems solved |
+| **Software Development (SDE)** | Data structures and algorithms, clean APIs, testing, scalable backends |
+| **System Software** | C++17/20, compiler design, optimization passes, memory planning, lock-free data structures |
+| **Compiler + ML** | Computational graphs, operator fusion, constant folding, inference runtimes |
+| **Backend + AI** | FastAPI, Celery, Redis, GraphRAG, agentic workflows |
+| **Problem Solving** | Codeforces Specialist, 1,000+ DSA problems solved |
 
 > *Understand the problem. Engineer the solution. Measure the result.*
 
@@ -40,32 +40,13 @@ Final-year B.Tech student at **VNIT Nagpur** (Electrical & Electronics Engineeri
 <img src="https://skillicons.dev/icons?i=cpp,c,py,cmake,linux,git,docker,postgres,redis,mysql,mongodb,neo4j,fastapi&theme=dark" alt="Skills" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-##  Final Year Project
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=6366F1&vCenter=true&width=600&height=50&lines=Projects" alt="Projects" />
 
-### ⚡ FPGA-Enabled Deep Learning for DC Series Arc Fault Detection
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=0D9488&vCenter=true&width=600&height=40&lines=C%2B%2B+Projects" alt="C++ Projects" />
 
-Series arc faults in DC systems (solar PV, EV charging, DC microgrids) are a fire-safety hazard and are hard to catch with conventional protection because the current signature is subtle. This project applies **deep learning on FPGA hardware** to detect them with low latency, suited to real-time protection.
-
-- Deep learning model for classifying DC series arc fault signatures from current signals.
-- Hardware-accelerated inference on **FPGA** for deterministic, low-latency detection.
-- Sits at the intersection of **ML, embedded hardware, and systems-level optimization**, which is the same mindset behind my compiler and runtime work.
-
-<div align="center">
-<img src="https://img.shields.io/badge/Deep%20Learning-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/FPGA-0D9488?style=flat-square" />
-<img src="https://img.shields.io/badge/Real--Time%20Inference-DB2777?style=flat-square" />
-<img src="https://img.shields.io/badge/Fault%20Detection-F59E0B?style=flat-square" />
-</div>
-
----
-
-##  Projects
-
-###  C++ Projects
-
-#### 1. LiteTensor: C++17 Graph Compiler & Inference Runtime
+#### LiteTensor: C++17 Graph Compiler & Inference Runtime
 <a href="https://github.com/KAILASH-SOU/GraphCompiler"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D9488?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 A computational-graph compiler and inference runtime built for optimization, memory efficiency, and execution speed.
@@ -82,7 +63,7 @@ A computational-graph compiler and inference runtime built for optimization, mem
 ![Google Test](https://img.shields.io/badge/Google%20Test-4285F4?style=flat-square)
 ![Compiler](https://img.shields.io/badge/Compiler%20Design-6366F1?style=flat-square)
 
-#### 2. High-Performance Low-Latency Trading Engine
+#### High-Performance Low-Latency Trading Engine
 <a href="https://github.com/KAILASH-SOU/High-Performance-Low-Latency-Trading-Engine"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 A C++20 trading engine built around systems performance.
@@ -98,11 +79,9 @@ A C++20 trading engine built around systems performance.
 
 <!-- TODO: add any other C++ repos from your GitHub here, same format as above -->
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=DB2777&vCenter=true&width=600&height=40&lines=Current+Projects" alt="Current Projects" />
 
-###  Current Projects
-
-#### 3. Enterprise GraphRAG Platform
+#### Enterprise GraphRAG Platform
 <a href="https://github.com/KAILASH-SOU/Enterprise-GraphRAG-Engine"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 Multi-tenant knowledge-graph retrieval backend for cross-document search and multi-hop reasoning.
@@ -118,7 +97,7 @@ Multi-tenant knowledge-graph retrieval backend for cross-document search and mul
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### 4. Autonomous Codebase Refactoring Agent
+#### Autonomous Codebase Refactoring Agent
 <a href="https://github.com/KAILASH-SOU/Autonomous-Refactoring-Agent"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 Self-healing refactoring system built on AST analysis, isolated validation, and async workers.
@@ -132,7 +111,7 @@ Self-healing refactoring system built on AST analysis, isolated validation, and 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-6366F1?style=flat-square)
 
-#### 5. Local-First Incident Command System
+#### Local-First Incident Command System
 <a href="https://github.com/KAILASH-SOU/Incident-Command-System"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-DB2777?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 Offline-capable incident-management and diagnostic system for investigating network outages.
@@ -145,9 +124,7 @@ Offline-capable incident-management and diagnostic system for investigating netw
 ![Ollama](https://img.shields.io/badge/Ollama-171717?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0D9488?style=flat-square)
 
----
-
-###  More Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=F59E0B&vCenter=true&width=600&height=40&lines=More+Projects" alt="More Projects" />
 
 Credit-card fraud detection (DT, RF, XGBoost, LightGBM), a content-based movie recommender, frontend projects, and more.
 
@@ -157,11 +134,17 @@ Credit-card fraud detection (DT, RF, XGBoost, LightGBM), a content-based movie r
 </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-##  Competitive Programming
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=F59E0B&vCenter=true&width=700&height=50&lines=Competitive+Programming" alt="Competitive Programming" />
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,33:F59E0B,66:0D9488,100:6366F1&height=110&section=header&text=1000%2B%20DSA%20Problems%20Solved&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="1000+ DSA problems solved" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=860&lines=1%2C000%2B+DSA+problems+solved;LeetCode+%7C+Codeforces+%7C+CodeChef;Codeforces+Specialist;Top+5+in+DSA+course+evaluation+(B.Tech+2027)" alt="DSA animation" />
+
+<br/>
 
 <a href="https://codeforces.com/profile/Kailash_Choudhari"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kailash_Choudhari&theme=dark" alt="Codeforces" /></a>
 <a href="https://leetcode.com/u/Kailash_Choudhari/"><img src="https://leetcard.jacoblin.cool/Kailash_Choudhari?theme=dark&font=Inter&ext=activity" alt="LeetCode" /></a>
@@ -170,42 +153,41 @@ Credit-card fraud detection (DT, RF, XGBoost, LightGBM), a content-based movie r
 
 | Platform | Highlight | Profile |
 |---|---|---|
-| **Codeforces** | Specialist · Rank **963** in Round 1110 (14,000+ participants) | [Kailash_Choudhari](https://codeforces.com/profile/Kailash_Choudhari) |
+| **Codeforces** | Specialist, Rank **963** in Round 1110 (14,000+ participants) | [Kailash_Choudhari](https://codeforces.com/profile/Kailash_Choudhari) |
 | **LeetCode** | Rank **1,351** in Contest 475 (28,000+ participants) | [Kailash_Choudhari](https://leetcode.com/u/Kailash_Choudhari/) |
 | **CodeChef** | Rank **361** in Starters 190 (14,000+ participants) | |
 
--  **1,000+ problems** solved across LeetCode, Codeforces, and CodeChef.
--  **Top 5** in the B.Tech 2027 batch in DSA course evaluation, **Top 3** in the CSE minor.
--  **NatWest Code for Purpose:** qualified Round 1 among 5,000+ national participants.
-- ➗ Winner of the "Who is the Boss" mathematical challenge by AXIS Club, VNIT Nagpur.
+- **1,000+ DSA problems solved** across LeetCode, Codeforces, and CodeChef.
+- **Top 5** in the B.Tech 2027 batch in DSA course evaluation, **Top 3** in the CSE minor.
+- **NatWest Code for Purpose:** qualified Round 1 among 5,000+ national participants.
+- Winner of the "Who is the Boss" mathematical challenge by AXIS Club, VNIT Nagpur.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-##  Technical Skills
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=0EA5E9&vCenter=true&width=600&height=50&lines=Technical+Skills" alt="Technical Skills" />
 
 | Area | Skills |
 |---|---|
 | **Languages** | C++ (17/20), C, Python, SQL |
 | **Systems & Compilers** | IRs, optimization passes, operator fusion, constant folding, liveness-based memory planning, cache-aware loops, lock-free structures |
-| **Hardware & DL** | FPGA-based inference, deep learning, real-time signal classification |
 | **Backend** | FastAPI, REST, WebSockets, Celery, Redis Pub/Sub, event-driven design |
-| **ML & AI** | RAG, GraphRAG, LangChain, LangGraph, vector search, knowledge graphs, agentic workflows |
+| **ML & AI** | Machine learning, deep learning, RAG, GraphRAG, LangChain, LangGraph, vector search, knowledge graphs, agentic workflows |
 | **Databases & Tools** | PostgreSQL, MySQL, MongoDB, Neo4j, Redis, Docker, Git, Linux, CMake |
 | **CS Core** | DSA, OS, Computer Networks, DBMS, OOP, Compiler Design |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-##  Education
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=84CC16&vCenter=true&width=600&height=50&lines=Education" alt="Education" />
 
-**Visvesvaraya National Institute of Technology (VNIT), Nagpur** · B.Tech 2023–2027
+**Visvesvaraya National Institute of Technology (VNIT), Nagpur** | B.Tech 2023-2027
 - Major: Electrical & Electronics Engineering, CGPA **8.15**
 - Minor: Computer Science & Engineering, CGPA **8.50**
 
-**Rajasthan Board:** Class XII **95%** · Class X **97.67%**
+**Rajasthan Board:** Class XII **95%** | Class X **97.67%**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-##  GitHub Analytics
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=A78BFA&vCenter=true&width=600&height=50&lines=GitHub+Analytics" alt="GitHub Analytics" />
 
 <div align="center">
 
@@ -222,11 +204,30 @@ Credit-card fraud detection (DT, RF, XGBoost, LightGBM), a content-based movie r
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=F43F5E&vCenter=true&width=700&height=50&lines=Final+Year+Project" alt="Final Year Project" />
+
+#### FPGA-Enabled Deep Learning for DC Series Arc Fault Detection
+
+Series arc faults in DC systems (solar PV, EV charging, DC microgrids) are a fire-safety hazard and are hard to catch with conventional protection because the current signature is subtle. This project applies **deep learning on FPGA hardware** to detect them with low latency, suited to real-time protection.
+
+- Deep learning model for classifying DC series arc fault signatures from current signals.
+- Hardware-accelerated inference on **FPGA** for deterministic, low-latency detection.
+- Combines ML, embedded hardware, and systems-level optimization, the same mindset behind my compiler and runtime work.
+
+<div align="center">
+<img src="https://img.shields.io/badge/Deep%20Learning-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FPGA-0D9488?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real--Time%20Inference-DB2777?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fault%20Detection-F59E0B?style=for-the-badge" />
+</div>
+
+<br/>
 
 <div align="center">
 
-### Let's Connect
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Let's+connect" alt="Let's connect" />
 
 <a href="mailto:soukailash46@gmail.com"><img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kailash-choudhary-55b0b1280/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -235,6 +236,6 @@ Credit-card fraud detection (DT, RF, XGBoost, LightGBM), a content-based movie r
 
 <sub>Building efficient software and exploring systems from the inside out.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0D9488,100:6366F1&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:0D9488,70:6366F1,100:DB2777&height=120&section=footer" width="100%" alt="" />
 
 </div>
